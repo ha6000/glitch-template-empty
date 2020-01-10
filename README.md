@@ -1,2 +1,1 @@
-# glitch-template-empty
-A empty glitch template
+# This is a empty glitch template
